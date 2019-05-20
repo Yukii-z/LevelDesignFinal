@@ -487,3 +487,169 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.20-02.52.25:862][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
 [2019.05.20-02.52.25:904][  0]LogD3D11RHI: Async texture creation enabled
 [2019.05.20-02.52.25:921][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.20-02.52.26:299][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.20-02.52.26:312][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.20-02.52.26:325][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.20-02.52.26:337][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.20-02.52.26:350][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.20-02.52.26:366][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.20-02.52.26:380][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.20-02.52.26:394][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.20-02.52.26:400][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:478][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.20-02.52.26:481][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.20-02.52.26:544][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.20-02.52.26:544][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.20-02.52.26:565][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.20-02.52.26:566][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.20-02.52.26:577][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.20-02.52.26:589][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.20-02.52.26:600][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.20-02.52.26:613][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.20-02.52.26:656][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.20-02.52.26:656][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.20-02.52.26:656][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.20-02.52.26:723][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Intermediate/Shaders/WorkingDirectory/33440/).
+[2019.05.20-02.52.26:723][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yukii/AppData/Local/Temp/UnrealShaderWorkingDir/C87D50474DD29D3C0A8A858617A7A91C/'.
+[2019.05.20-02.52.26:725][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.20-02.52.26:725][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.20-02.52.26:725][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.20-02.52.27:201][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.20-02.52.27:253][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/yukii/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.20-02.52.27:254][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/yukii/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.20-02.52.27:254][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.20-02.52.27:254][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.20-02.52.27:254][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.20-02.52.27:254][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.20-02.52.27:267][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.20-02.52.27:267][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.20-02.52.27:267][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.20-02.52.27:280][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yukii/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.20-02.52.27:280][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.20-02.52.27:280][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.20-02.52.27:299][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.20-02.52.27:300][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.20-02.52.27:301][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.20-02.52.27:392][  0]LogAssetRegistry: FAssetRegistry took 0.0325 seconds to start up
+[2019.05.20-02.52.27:680][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.20-02.52.27:827][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.20-02.52.27:832][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.20-02.52.27:832][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.20-02.52.27:832][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.20-02.52.27:832][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.20-02.52.27:845][  0]LogNetVersion: Proj_2 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1343733239)
+[2019.05.20-02.52.28:353][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.074265 seconds
+[2019.05.20-02.52.28:361][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.20-02.52.28:361][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.20-02.52.28:361][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.20-02.52.29:283][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.20-02.52.29:297][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.20-02.52.30:015][  0]SourceControl: Source control is disabled
+[2019.05.20-02.52.30:015][  0]SourceControl: Source control is disabled
+[2019.05.20-02.52.30:017][  0]SourceControl: Source control is disabled
+[2019.05.20-02.52.30:019][  0]SourceControl: Source control is disabled
+[2019.05.20-02.52.30:208][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.20-02.52.30:627][  0]LogOcInput: OculusInput pre-init called
+[2019.05.20-02.52.30:778][  0]LogEngine: Initializing Engine...
+[2019.05.20-02.52.30:779][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.20-02.52.30:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.20-02.52.30:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.20-02.52.30:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.20-02.52.30:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.20-02.52.31:016][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.20-02.52.31:029][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-02.52.31:035][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.20-02.52.31:136][  0]LogInit: FAudioDevice initialized.
+[2019.05.20-02.52.31:136][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.20-02.52.31:209][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/yukii/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.20-02.52.31:210][  0]LogInit: Texture streaming: Enabled
+[2019.05.20-02.52.31:232][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.20-02.52.31:247][  0]LogInit: Transaction tracking system initialized
+[2019.05.20-02.52.31:282][  0]BlueprintLog: New page: Editor Load
+[2019.05.20-02.52.31:368][  0]LocalizationService: Localization service is disabled
+[2019.05.20-02.52.31:870][  0]LogFileCache: Scanning file cache for directory 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/' took 0.01s
+[2019.05.20-02.52.31:870][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.20-02.52.31:870][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.20-02.52.31:870][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.20-02.52.31:870][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.20-02.52.31:870][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.20-02.52.31:870][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.20-02.52.31:870][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.20-02.52.32:012][  0]SourceControl: Source control is disabled
+[2019.05.20-02.52.32:013][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.20-02.52.32:014][  0]LightingResults: New page: Lighting Build
+[2019.05.20-02.52.32:018][  0]MapCheck: New page: Map Check
+[2019.05.20-02.52.32:018][  0]LightingResults: New page: Lighting Build
+[2019.05.20-02.52.32:157][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.05.20-02.52.32:163][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.20-02.52.32:188][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.20-02.52.32:188][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2019.05.20-02.52.32:189][  0]LogFileHelpers: Loading map 'Template_Default' took 0.176
+[2019.05.20-02.52.32:304][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-02.52.32:310][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-02.52.32:316][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-02.52.32:323][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-02.52.32:329][  0]LogCollectionManager: Loaded 0 collections in 0.001738 seconds
+[2019.05.20-02.52.32:368][  0]LogFileCache: Scanning file cache for directory 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Collections/' took 0.01s
+[2019.05.20-02.52.32:368][  0]LogFileCache: Scanning file cache for directory 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Developers/yukii/Collections/' took 0.01s
+[2019.05.20-02.52.32:368][  0]LogFileCache: Scanning file cache for directory 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Collections/' took 0.01s
+[2019.05.20-02.52.32:368][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.20-02.52.32:376][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2651 classes and 620 folders.
+[2019.05.20-02.52.32:382][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.20-02.52.32:384][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:384][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:385][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:386][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:386][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:389][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:389][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:390][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:390][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:391][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:391][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:392][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:392][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:395][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:396][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:396][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-02.52.32:442][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.20-02.52.32:447][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.20-02.52.32:463][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.20-02.52.32:465][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.20-02.52.32:472][  0]LogSlate: Took 0.001001 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.20-02.52.32:548][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.05.20-02.52.32:713][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.20-02.52.32:713][  0]LogLoad: (Engine Initialization) Total time: 10.41 seconds
+[2019.05.20-02.52.32:713][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.20-02.52.32:787][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.20-02.52.32:983][  1]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.20-02.52.33:012][  2]LogAssetRegistry: Asset discovery search completed in 5.6423 seconds
+[2019.05.20-02.52.33:014][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.05.20-02.52.33:014][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
