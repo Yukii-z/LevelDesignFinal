@@ -697,3 +697,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.20-20.11.04:725][429]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_BlockMeshPrototypeModules_SM_Block_Wall250x317)
 [2019.05.20-20.11.04:790][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.05.20-20.11.05:587][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BlockMeshPrototypeModules_SM_Block_Floor507)
+[2019.05.20-20.15.10:037][211]LogSlate: FSceneViewport::OnFocusLost() reason 2
