@@ -783,3 +783,253 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.20-02.56.26:194][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Midterm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.05.20-02.56.28:199][189]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Midterm0A0837584D66A1E05FCAB298130C3DEA.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Midterm.umap'
 [2019.05.20-02.56.28:220][189]LogFileHelpers: Saving map 'Midterm' took 2.027
+[2019.05.20-02.56.53:136][274]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-02.57.49:378][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_panel316)
+[2019.05.20-02.58.17:340][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.06.26:708][170]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Midterm' took 0.061
+[2019.05.20-03.09.44:591][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.09.49:125][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.10.15:396][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.12.07:451][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.12.09:088][199]LogRenderer: Reallocating scene render targets to support 1024x556 Format 10 NumSamples 1 (Frame:3249).
+[2019.05.20-03.12.13:732][438]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-03.12.13:749][438]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-03.12.13:749][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-03.12.13:749][438]PIE: New page: PIE session: Midterm (May 19, 2019, 7:12:13 PM)
+[2019.05.20-03.12.13:749][438]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Midterm
+[2019.05.20-03.12.13:869][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119516s)
+[2019.05.20-03.12.13:870][438]LogAIModule: Creating AISystem for world Midterm
+[2019.05.20-03.12.13:870][438]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2019.05.20-03.12.13:870][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Midterm.Midterm to /Game/UEDPIE_0_Midterm.Midterm (0.120687s)
+[2019.05.20-03.12.13:902][438]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.20-03.12.13:999][438]LogInit: FAudioDevice initialized.
+[2019.05.20-03.12.14:028][438]LogLoad: Game class is 'MyGameMode_C'
+[2019.05.20-03.12.14:071][438]LogWorld: Bringing World /Game/UEDPIE_0_Midterm.Midterm up for play (max tick rate 60) at 2019.05.19-23.12.14
+[2019.05.20-03.12.14:074][438]LogWorld: Bringing up level for play took: 0.044154
+[2019.05.20-03.12.14:088][438]Cmd: DISABLEALLSCREENMESSAGES
+[2019.05.20-03.12.14:089][438]LogEngine: Onscreen warnings/messages are now DISABLED
+[2019.05.20-03.12.14:090][438]PIE: Play in editor start time for /Game/UEDPIE_0_Midterm -0.52
+[2019.05.20-03.12.14:091][438]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-03.12.22:232][549]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-03.12.22:232][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-03.12.22:441][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-03.12.22:441][549]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-03.12.22:475][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-03.12.22:508][550]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.05.20-03.12.24:160][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.14.51:926][686]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.20-03.15.03:086][177]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-03.15.03:103][177]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-03.15.03:103][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-03.15.03:103][177]PIE: New page: PIE session: Midterm (May 19, 2019, 7:15:03 PM)
+[2019.05.20-03.15.03:103][177]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Midterm
+[2019.05.20-03.15.03:221][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117827s)
+[2019.05.20-03.15.03:221][177]LogAIModule: Creating AISystem for world Midterm
+[2019.05.20-03.15.03:222][177]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2019.05.20-03.15.03:222][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Midterm.Midterm to /Game/UEDPIE_0_Midterm.Midterm (0.118914s)
+[2019.05.20-03.15.03:254][177]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.20-03.15.03:343][177]LogInit: FAudioDevice initialized.
+[2019.05.20-03.15.03:377][177]LogLoad: Game class is 'MyGameMode_C'
+[2019.05.20-03.15.03:414][177]LogWorld: Bringing World /Game/UEDPIE_0_Midterm.Midterm up for play (max tick rate 60) at 2019.05.19-23.15.03
+[2019.05.20-03.15.03:417][177]LogWorld: Bringing up level for play took: 0.039291
+[2019.05.20-03.15.03:432][177]Cmd: DISABLEALLSCREENMESSAGES
+[2019.05.20-03.15.03:432][177]LogEngine: Onscreen warnings/messages are now DISABLED
+[2019.05.20-03.15.03:432][177]PIE: Play in editor start time for /Game/UEDPIE_0_Midterm 0.822
+[2019.05.20-03.15.03:433][177]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-03.15.07:306][274]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyHUDWidget.MyHUDWidget
+[2019.05.20-03.16.45:788][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.16.45:930][ 40]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-03.16.45:930][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-03.16.46:070][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-03.16.46:071][ 40]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-03.16.46:106][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-03.16.46:140][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.05.20-03.18.18:393][871]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Midterm' took 0.028
+[2019.05.20-03.18.18:395][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyHUDWidget] ([1] browsable assets)...
+[2019.05.20-03.18.18:395][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyHUDWidget]
+[2019.05.20-03.18.18:395][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyHUDWidget" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Autosaves/Game/MyHUDWidget_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.05.20-03.18.18:422][871]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/MyHUDWidget_Auto1C701AA4B4217943D7061729B02D72C2E.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Autosaves/Game/MyHUDWidget_Auto1.uasset'
+[2019.05.20-03.18.18:423][871]LogFileHelpers: Auto-saving content packages took 0.028
+[2019.05.20-03.21.37:685][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-03.22.23:421][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.23.08:671][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model50)
+[2019.05.20-03.23.22:350][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.23.25:849][441]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.05.20-03.23.25:877][441]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2019.05.20-03.23.27:428][518]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.05.20-03.23.27:455][518]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2019.05.20-03.23.43:971][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.23.51:620][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.24.08:164][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.24.17:999][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model25)
+[2019.05.20-03.24.23:610][903]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight144)
+[2019.05.20-03.24.27:670][134]Cmd: TRANSACTION UNDO
+[2019.05.20-03.24.27:670][134]LogEditorTransaction: Undo Move Actors
+[2019.05.20-03.24.30:143][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model22)
+[2019.05.20-03.24.42:147][627]Cmd: TRANSACTION UNDO
+[2019.05.20-03.24.42:148][627]LogEditorTransaction: Undo Move Actors
+[2019.05.20-03.24.46:364][827]Cmd: TRANSACTION UNDO
+[2019.05.20-03.24.46:364][827]LogEditorTransaction: Undo Move Actors
+[2019.05.20-03.24.48:084][900]Cmd: TRANSACTION UNDO
+[2019.05.20-03.24.48:084][900]LogEditorTransaction: Undo Move Actors
+[2019.05.20-03.24.48:652][932]Cmd: TRANSACTION UNDO
+[2019.05.20-03.24.48:652][932]LogEditorTransaction: Undo Animatable Property Changed
+[2019.05.20-03.24.49:368][973]Cmd: TRANSACTION UNDO
+[2019.05.20-03.24.49:368][973]LogEditorTransaction: Undo Animatable Property Changed
+[2019.05.20-03.24.49:821][999]Cmd: TRANSACTION UNDO
+[2019.05.20-03.24.49:821][999]LogEditorTransaction: Undo Move Actors
+[2019.05.20-03.24.52:441][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.24.55:983][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.25.01:230][580]Cmd: TRANSACTION UNDO
+[2019.05.20-03.25.01:230][580]LogEditorTransaction: Undo Move Actors
+[2019.05.20-03.25.26:956][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.25.27:836][371]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.05.20-03.25.27:864][371]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2019.05.20-03.25.32:817][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.25.38:476][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.25.44:083][107]LogEditorActor: Deleted Actor: SkyLight
+[2019.05.20-03.25.44:112][107]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2019.05.20-03.26.02:167][ 96]Cmd: EDIT COPY
+[2019.05.20-03.26.02:176][ 96]Cmd: TRANSACTION UNDO
+[2019.05.20-03.26.02:176][ 96]LogEditorTransaction: Undo Edit Sky Distance Threshold
+[2019.05.20-03.26.15:282][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model15)
+[2019.05.20-03.26.19:441][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.26.36:548][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model17)
+[2019.05.20-03.26.38:098][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model9)
+[2019.05.20-03.26.48:002][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-03.28.24:898][437]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Midterm_Auto24734D00B40AC52F8CA6034B43CC72479.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Autosaves/Game/Midterm_Auto2.umap'
+[2019.05.20-03.28.24:905][437]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Midterm' took 5.965
+[2019.05.20-03.28.24:905][437]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.965
+[2019.05.20-03.28.29:621][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model29)
+[2019.05.20-03.28.32:114][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.28.40:927][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.28.59:452][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model9)
+[2019.05.20-03.29.21:455][618]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-03.29.24:741][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.29.34:372][268]LogActorFactory: Actor Factory created street_trash_pCylinder6
+[2019.05.20-03.29.34:777][274]LogActorFactory: Actor Factory created street_trash_pCylinder6
+[2019.05.20-03.29.40:034][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model26)
+[2019.05.20-03.29.40:903][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_trash_pCylinder6)
+[2019.05.20-03.29.46:293][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model23)
+[2019.05.20-03.29.47:394][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_trash_pCylinder6)
+[2019.05.20-03.30.12:469][787]Cmd: EDIT COPY
+[2019.05.20-03.30.14:041][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_panel176)
+[2019.05.20-03.30.18:683][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_trash_pCylinder6)
+[2019.05.20-03.30.26:515][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_panel519)
+[2019.05.20-03.30.29:537][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_panel176)
+[2019.05.20-03.30.30:200][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_trash_pCylinder6)
+[2019.05.20-03.30.45:492][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_trash_pCylinder7)
+[2019.05.20-03.30.54:562][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_trash_pCylinder6)
+[2019.05.20-03.30.57:790][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_panel62)
+[2019.05.20-03.30.59:131][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_trash_pCylinder6)
+[2019.05.20-03.31.11:809][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_panel76)
+[2019.05.20-03.31.19:859][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.31.21:726][170]LogActorFactory: Actor Factory created street_flower_pCube7
+[2019.05.20-03.31.21:728][170]LogActorFactory: Actor Factory created street_flower_pCube13
+[2019.05.20-03.31.22:244][179]LogActorFactory: Actor Factory created street_flower_pCube7
+[2019.05.20-03.31.22:261][179]LogActorFactory: Actor Factory created street_flower_pCube13
+[2019.05.20-03.31.36:557][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_flower_pCube13)
+[2019.05.20-03.31.44:086][987]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube7)
+[2019.05.20-03.32.02:159][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_flower_pCube7)
+[2019.05.20-03.32.04:252][727]Cmd: TRANSACTION UNDO
+[2019.05.20-03.32.04:252][727]LogEditorTransaction: Undo Move Actors
+[2019.05.20-03.32.10:364][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model22)
+[2019.05.20-03.32.13:926][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_flower_pCube9)
+[2019.05.20-03.32.14:740][120]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube8)
+[2019.05.20-03.32.15:238][145]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube7)
+[2019.05.20-03.32.21:365][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model24)
+[2019.05.20-03.32.22:587][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_flower_pCube11)
+[2019.05.20-03.32.23:276][453]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube12)
+[2019.05.20-03.32.31:920][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model26)
+[2019.05.20-03.32.33:516][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_flower_pCube13)
+[2019.05.20-03.32.41:498][178]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.20-03.33.03:490][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model)
+[2019.05.20-03.33.07:394][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_flower_pCube16)
+[2019.05.20-03.33.10:030][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model2)
+[2019.05.20-03.33.16:518][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_flower_pCube16)
+[2019.05.20-03.33.17:023][796]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube15)
+[2019.05.20-03.33.17:630][824]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube14)
+[2019.05.20-03.33.18:494][868]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube12)
+[2019.05.20-03.33.19:055][893]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube11)
+[2019.05.20-03.33.20:724][979]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube10)
+[2019.05.20-03.33.21:254][  5]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube9)
+[2019.05.20-03.33.21:810][ 32]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube7)
+[2019.05.20-03.33.22:857][ 79]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube8)
+[2019.05.20-03.33.23:496][103]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube13)
+[2019.05.20-03.33.44:097][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model7)
+[2019.05.20-03.33.51:785][183]Cmd: TRANSACTION UNDO
+[2019.05.20-03.33.51:785][183]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.20-03.33.52:189][201]Cmd: TRANSACTION UNDO
+[2019.05.20-03.33.52:189][201]LogEditorTransaction: Undo Move Actors
+[2019.05.20-03.33.52:558][221]Cmd: TRANSACTION UNDO
+[2019.05.20-03.33.52:558][221]LogEditorTransaction: Undo Animatable Property Changed
+[2019.05.20-03.33.53:932][266]Cmd: TRANSACTION UNDO
+[2019.05.20-03.33.53:932][266]LogEditorTransaction: Undo Animatable Property Changed
+[2019.05.20-03.33.54:435][294]Cmd: TRANSACTION UNDO
+[2019.05.20-03.33.54:435][294]LogEditorTransaction: Undo Animatable Property Changed
+[2019.05.20-03.33.54:863][318]Cmd: TRANSACTION UNDO
+[2019.05.20-03.33.54:863][318]LogEditorTransaction: Undo Animatable Property Changed
+[2019.05.20-03.33.55:341][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model2)
+[2019.05.20-03.33.55:515][348]Cmd: TRANSACTION UNDO
+[2019.05.20-03.33.55:515][348]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.20-03.33.56:093][377]Cmd: TRANSACTION UNDO
+[2019.05.20-03.33.56:093][377]LogEditorTransaction: Undo Animatable Property Changed
+[2019.05.20-03.33.56:503][398]Cmd: TRANSACTION UNDO
+[2019.05.20-03.33.56:503][398]LogEditorTransaction: Undo Animatable Property Changed
+[2019.05.20-03.33.56:909][420]Cmd: TRANSACTION UNDO
+[2019.05.20-03.33.56:910][420]LogEditorTransaction: Undo Animatable Property Changed
+[2019.05.20-03.33.57:268][440]Cmd: TRANSACTION UNDO
+[2019.05.20-03.33.57:269][440]LogEditorTransaction: Undo Animatable Property Changed
+[2019.05.20-03.33.58:124][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model31)
+[2019.05.20-03.33.58:463][496]Cmd: TRANSACTION UNDO
+[2019.05.20-03.33.58:463][496]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.20-03.33.58:821][513]Cmd: TRANSACTION UNDO
+[2019.05.20-03.33.58:821][513]LogEditorTransaction: Undo Animatable Property Changed
+[2019.05.20-03.34.21:462][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_flower_pCube17)
+[2019.05.20-03.34.22:208][467]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube19)
+[2019.05.20-03.34.22:896][505]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube18)
+[2019.05.20-03.34.23:406][531]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube20)
+[2019.05.20-03.34.23:808][551]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube21)
+[2019.05.20-03.34.24:263][573]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube22)
+[2019.05.20-03.34.24:748][599]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube23)
+[2019.05.20-03.34.25:257][626]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube24)
+[2019.05.20-03.34.25:752][652]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube25)
+[2019.05.20-03.34.26:709][701]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube26)
+[2019.05.20-03.34.27:231][728]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube25)
+[2019.05.20-03.34.30:158][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model53)
+[2019.05.20-03.34.38:444][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_flower_pCube27)
+[2019.05.20-03.34.39:105][198]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube29)
+[2019.05.20-03.34.39:568][223]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube28)
+[2019.05.20-03.34.40:119][253]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube30)
+[2019.05.20-03.34.40:554][276]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube31)
+[2019.05.20-03.34.40:962][297]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube32)
+[2019.05.20-03.34.41:461][324]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube33)
+[2019.05.20-03.34.41:982][352]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube34)
+[2019.05.20-03.34.42:402][373]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube35)
+[2019.05.20-03.34.42:805][392]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (street_flower_pCube36)
+[2019.05.20-03.34.46:270][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model8)
+[2019.05.20-03.34.48:956][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model31)
+[2019.05.20-03.34.49:582][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model12)
+[2019.05.20-03.34.58:878][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-03.35.43:406][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_leveldesign)
+[2019.05.20-03.35.52:733][925]Cmd: EDIT COPY
+[2019.05.20-03.35.55:312][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_panel91)
+[2019.05.20-03.35.59:094][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Window_Ground10)
+[2019.05.20-03.35.59:897][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Window_Ground10)
+[2019.05.20-03.36.00:584][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_leveldesign)
+[2019.05.20-03.36.08:348][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BlockMeshPrototypeModules_SM_Block_Wall250x319)
+[2019.05.20-03.36.10:051][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_panel68)
+[2019.05.20-03.36.13:041][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_390)
+[2019.05.20-03.36.15:717][822]Cmd: TRANSACTION UNDO
+[2019.05.20-03.36.15:717][822]LogEditorTransaction: Undo Scale Actors
+[2019.05.20-03.36.24:133][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BlockMeshPrototypeModules_SM_Block_Wall250x321)
+[2019.05.20-03.36.24:537][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BlockMeshPrototypeModules_SM_Block_Floor543)
+[2019.05.20-03.36.26:174][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_panel90)
+[2019.05.20-03.36.27:535][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street_model48)
+[2019.05.20-03.36.54:313][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-03.36.55:500][167]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-03.36.55:525][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Midterm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.20-03.36.57:901][167]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Midterm708A55F64922387E4132EE9523C56122.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Midterm.umap'
+[2019.05.20-03.36.57:932][167]LogFileHelpers: Saving map 'Midterm' took 2.408
+[2019.05.20-03.36.57:952][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyHUDWidget" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/MyHUDWidget.uasset" SILENT=true
+[2019.05.20-03.36.57:980][167]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/MyHUDWidget70650FAD48410646BA3D9798C0810F64.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/MyHUDWidget.uasset'
