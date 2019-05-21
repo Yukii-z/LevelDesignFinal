@@ -7862,3 +7862,1062 @@ Script Stack (0 frames):
 [2019.05.20-22.15.09:617][611]LogEditorActor: Deleted Actor: StaticMeshActor
 [2019.05.20-22.15.09:685][611]LogEditorActor: Deleted 1 Actors (0.142 secs)
 [2019.05.20-22.15.17:155][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.16.04:769][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.16.07:793][989]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.20-22.16.10:640][  6]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\NYU\First Year Semester II\Level Design Studio\week final\SelectedObj\Museum\museum_collectableItem.fbx)
+[2019.05.20-22.16.10:665][  6]LogFbx: Loading FBX Scene from D:\NYU\First Year Semester II\Level Design Studio\week final\SelectedObj\Museum\museum_collectableItem.fbx
+[2019.05.20-22.16.10:670][  6]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.20-22.16.12:193][  6]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.20-22.16.12:229][  6]LogFbx: Warning: Triangulating static mesh pSphere1
+[2019.05.20-22.16.12:276][  6]LogStaticMesh: Building static mesh museum_collectableItem...
+[2019.05.20-22.16.12:287][  6]LogStaticMesh: Built static mesh [0.01s] /Game/Item/Museum/museum_collectableItem.museum_collectableItem
+[2019.05.20-22.16.12:301][  6]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.05.20-22.16.14:010][ 28]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-22.16.14:076][ 28]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-22.17.22:830][833]LogEditorViewport: Clicking on Actor (LMB): CollectibleBlueprint_C (CollectibleBlueprint2)
+[2019.05.20-22.17.24:359][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.17.27:345][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sculpture)
+[2019.05.20-22.17.39:161][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.18.12:128][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.18.41:294][643]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Midterm_Auto824EE9EB541900057CA117CB305A60B28.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Autosaves/Game/Midterm_Auto8.umap'
+[2019.05.20-22.18.41:298][643]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Midterm' took 2.159
+[2019.05.20-22.18.41:298][643]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.159
+[2019.05.20-22.18.41:312][643]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/Collectable_Blueprint] ([1] browsable assets)...
+[2019.05.20-22.18.41:360][643]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Collectable_Blueprint.Collectable_Blueprint]
+[2019.05.20-22.18.41:360][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Collectable_Blueprint]
+[2019.05.20-22.18.41:374][643]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Collectable_Blueprint_Auto833F7048B4C3D12FF171A589689952437.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Autosaves/Game/BluePrint/Collectable_Blueprint_Auto8.uasset'
+[2019.05.20-22.18.41:432][643]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Item/Museum/museum_collectableItem] ([1] browsable assets)...
+[2019.05.20-22.18.41:458][643]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Item/Museum/museum_collectableItem.museum_collectableItem]
+[2019.05.20-22.18.41:458][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/Item/Museum/museum_collectableItem]
+[2019.05.20-22.18.41:468][643]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/museum_collectableItem_Auto879E528F9489C6971E5390AAF55A91946.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Autosaves/Game/Item/Museum/museum_collectableItem_Auto8.uasset'
+[2019.05.20-22.18.41:469][643]LogFileHelpers: Auto-saving content packages took 0.158
+[2019.05.20-22.18.46:867][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.18.59:951][821]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/SculptureGradient.SculptureGradient
+[2019.05.20-22.18.59:965][821]LogMaterial: Display: Missing cached shader map for material SculptureGradient, compiling. 
+[2019.05.20-22.19.00:217][821]LogMaterial: Display: Missing cached shader map for material SculptureGradient, compiling. 
+[2019.05.20-22.19.00:239][821]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-22.19.00:239][821]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.20-22.19.00:239][821]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.20-22.19.00:239][821]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.20-22.19.00:239][821]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.20-22.19.00:239][821]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.20-22.19.00:239][821]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.20-22.19.00:239][821]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-22.19.00:243][821]LogMaterial: Display: Missing cached shader map for material SculptureGradient, compiling. 
+[2019.05.20-22.19.00:294][821]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-22.19.00:301][821]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.05.20-22.19.00:305][821]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.05.20-22.19.00:311][821]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.05.20-22.19.00:313][821]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2019.05.20-22.19.00:803][825]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.20-22.19.00:855][825]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.20-22.19.00:866][825]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.20-22.19.00:886][825]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.20-22.19.00:894][825]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.20-22.19.00:899][825]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.20-22.19.00:914][825]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-22.19.00:918][825]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.20-22.19.01:124][826]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.20-22.19.01:139][826]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.20-22.19.01:139][826]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.20-22.19.01:149][826]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.20-22.19.01:157][826]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.20-22.19.01:168][826]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-22.19.01:197][826]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-22.19.01:217][826]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.19.01:316][827]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.19.01:513][828]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.19.01:584][828]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.19.01:824][829]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.19.01:836][829]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.19.01:896][829]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.19.01:906][829]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.19.01:906][829]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-22.19.01:922][829]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-22.19.02:053][830]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-22.19.02:207][831]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-22.19.02:291][831]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-22.19.02:307][831]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-22.19.02:581][832]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-22.19.02:581][832]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-22.19.02:601][832]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-22.19.02:746][834]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-22.19.02:785][835]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-22.19.02:902][835]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.19.02:972][835]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.19.03:205][836]MaterialEditorStats: Base pass shader: 130 instructions
+[2019.05.20-22.19.03:205][836]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2019.05.20-22.19.03:205][836]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2019.05.20-22.19.03:205][836]MaterialEditorStats: Base pass vertex shader: 33 instructions
+[2019.05.20-22.19.03:205][836]MaterialEditorStats: Texture samplers: 4/16
+[2019.05.20-22.19.03:205][836]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.05.20-22.19.27:682][952]LogStaticMesh: Building static mesh skyscraper_01_quads__DoubleAntenne...
+[2019.05.20-22.19.27:717][952]LogStaticMesh: Built static mesh [0.03s] /Game/50louti/skyscraper_01_quads__DoubleAntenne.skyscraper_01_quads__DoubleAntenne
+[2019.05.20-22.19.27:728][952]LogMaterial: Display: Missing cached shader map for material _skyscraper_01_quads_double_antenne, compiling. 
+[2019.05.20-22.19.27:755][952]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-22.19.27:755][952]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-22.19.27:755][952]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.20.02:057][325]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/CollectItem_Mat.CollectItem_Mat
+[2019.05.20-22.20.15:897][462]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CollectItem_Mat, compiling. 
+[2019.05.20-22.20.16:215][462]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.20.16:223][462]TextureStreamingBuild: Display: Compiling optional shaders took 0.336 seconds.
+[2019.05.20-22.20.19:813][484]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.20-22.20.40:954][706]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/CollectItem_Mat.CollectItem_Mat
+[2019.05.20-22.20.40:957][706]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.20.41:106][706]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.20.41:122][706]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.20.41:152][706]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.20.41:152][706]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.20.41:152][706]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.20.41:152][706]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.20.41:152][706]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.20.41:152][706]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.20.41:152][706]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.20.41:152][706]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.20.41:722][711]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-22.20.41:757][711]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-22.20.41:757][711]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-22.20.41:773][711]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-22.20.41:790][711]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-22.20.41:796][711]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-22.20.41:812][711]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-22.20.41:819][711]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-22.20.41:948][712]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-22.20.42:177][712]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-22.20.42:222][713]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-22.20.42:444][713]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.20.42:456][713]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.20.43:001][718]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.05.20-22.20.43:001][718]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.05.20-22.20.43:001][718]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.20-22.20.43:001][718]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.20-22.20.52:062][815]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.SculptureGradient:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.CollectItem_Mat:MaterialGraph_0.MaterialGraphNode_10
+[2019.05.20-22.20.52:062][815]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureObject'"MaterialGraphNode_10.MaterialExpressionTextureObject_0"',InputName="TextureObject"))'
+[2019.05.20-22.20.52:063][815]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.SculptureGradient:MaterialGraph_0.MaterialGraphNode_2 or MaterialGraphNode /Engine/Transient.CollectItem_Mat:MaterialGraph_0.MaterialGraphNode_2
+[2019.05.20-22.20.52:063][815]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_2.MaterialExpressionTextureSample_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.05.20-22.20.52:063][815]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.SculptureGradient:MaterialGraph_0.MaterialGraphNode_1 or MaterialGraphNode /Engine/Transient.CollectItem_Mat:MaterialGraph_0.MaterialGraphNode_1
+[2019.05.20-22.20.52:063][815]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant4Vector'"MaterialGraphNode_1.MaterialExpressionConstant4Vector_0"')'
+[2019.05.20-22.20.52:064][815]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.SculptureGradient:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.CollectItem_Mat:MaterialGraph_0.MaterialGraphNode_6
+[2019.05.20-22.20.52:064][815]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_6.MaterialExpressionTextureCoordinate_0"',InputName="UV Channel"))'
+[2019.05.20-22.20.52:064][815]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.SculptureGradient:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.CollectItem_Mat:MaterialGraph_0.MaterialGraphNode_6
+[2019.05.20-22.20.52:065][815]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_6.MaterialExpressionTextureCoordinate_0"')'
+[2019.05.20-22.20.52:065][815]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.SculptureGradient:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.CollectItem_Mat:MaterialGraph_0.MaterialGraphNode_5
+[2019.05.20-22.20.52:065][815]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMaterialFunctionCall'"MaterialGraphNode_5.MaterialExpressionMaterialFunctionCall_1"',OutputIndex=1,InputName="UV Channel"))'
+[2019.05.20-22.20.52:147][815]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.20.52:161][815]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.20.52:161][815]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.20.52:161][815]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.20.52:161][815]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.20.52:161][815]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.20.52:161][815]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.20.52:161][815]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.20.52:161][815]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.20.52:161][815]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-22.20.52:166][815]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.05.20-22.20.52:168][815]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.05.20-22.20.52:173][815]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.05.20-22.20.52:176][815]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2019.05.20-22.20.52:385][817]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.20.52:452][818]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.20.52:452][818]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.20.52:452][818]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.20.52:458][818]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.20.52:476][818]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.20.52:480][818]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-22.20.52:484][818]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-22.20.52:569][818]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-22.20.52:776][819]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-22.20.52:836][819]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-22.20.53:116][820]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-22.20.53:137][820]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-22.20.53:148][820]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-22.20.53:165][820]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-22.20.53:201][820]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-22.20.53:257][821]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-22.20.53:350][823]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.20.53:433][823]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.20.53:790][825]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.05.20-22.20.53:790][825]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.05.20-22.20.53:790][825]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.20-22.20.53:790][825]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.20-22.22.30:088][259]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.22.30:089][259]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.22.30:089][259]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.22.30:096][259]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-22.22.30:110][259]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.22.30:110][259]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.22.30:127][259]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.05.20-22.22.30:156][259]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.05.20-22.22.30:171][259]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.22.30:171][259]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.22.30:191][259]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.05.20-22.22.30:222][259]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2019.05.20-22.22.30:237][259]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.22.30:237][259]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.22.30:253][259]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.22.33:975][292]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.22.33:976][292]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.22.33:976][292]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.22.33:982][292]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-22.22.33:996][292]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.22.33:996][292]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.23.11:481][491]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.23.11:481][491]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.23.11:481][491]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.23.11:486][491]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.23.11:486][491]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.23.11:486][491]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.23.11:516][491]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-22.23.11:542][492]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.23.11:542][492]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.23.40:198][758]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.23.40:198][758]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.23.40:198][758]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.23.40:202][758]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.23.40:202][758]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.23.40:202][758]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.23.42:398][781]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2019.05.20-22.23.42:406][782]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.23.42:406][782]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.23.47:038][824]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.23.47:039][824]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.23.47:039][824]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.23.47:043][824]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2019.05.20-22.23.47:058][824]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.23.47:058][824]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.23.47:078][824]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.23.47:079][824]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.23.47:079][824]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.23.52:267][875]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.23.52:268][875]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.23.52:268][875]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.23.52:279][875]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2019.05.20-22.23.52:293][875]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.23.52:293][875]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.23.52:307][875]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.23.52:308][875]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.23.52:308][875]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.23.53:691][889]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.23.53:692][889]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.23.53:692][889]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.23.58:177][933]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.23.58:177][933]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.23.58:177][933]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.24.00:840][962]LogMaterialEditor: Saving and Compiling material CollectItem_Mat
+[2019.05.20-22.24.11:209][962]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2019.05.20-22.24.40:849][264]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.24.40:850][264]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.24.40:850][264]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.24.40:882][264]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-22.24.40:887][264]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.24.40:887][264]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.24.40:887][264]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2019.05.20-22.24.40:917][265]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.24.40:917][265]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.24.48:287][330]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.24.48:288][330]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.24.48:288][330]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.24.48:306][330]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2019.05.20-22.24.48:326][330]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.24.48:326][330]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.25.08:943][542]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.25.08:994][543]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.25.08:994][543]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.25.08:994][543]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.25.08:994][543]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.25.08:994][543]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.25.08:994][543]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.25.08:994][543]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.25.08:994][543]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.25.09:503][547]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-22.25.09:525][547]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-22.25.09:544][547]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-22.25.09:552][547]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-22.25.09:552][547]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-22.25.09:562][547]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-22.25.09:562][547]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-22.25.09:619][548]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-22.25.09:694][548]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-22.25.09:944][549]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-22.25.09:978][549]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-22.25.10:270][551]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.25.10:317][552]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.25.10:852][554]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.25.10:923][555]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.25.10:923][555]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.25.10:923][555]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.25.10:923][555]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.25.10:923][555]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.25.10:923][555]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.25.10:923][555]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.25.10:923][555]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.25.11:107][557]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-22.25.11:128][557]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-22.25.11:139][557]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-22.25.11:155][557]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-22.25.11:161][557]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-22.25.11:177][557]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-22.25.11:183][557]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-22.25.11:189][557]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-22.25.11:288][558]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-22.25.11:500][558]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-22.25.11:561][559]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-22.25.11:771][559]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.25.11:878][560]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.25.12:312][564]MaterialEditorStats: Base pass shader: 104 instructions
+[2019.05.20-22.25.12:312][564]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2019.05.20-22.25.12:312][564]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.05.20-22.25.12:312][564]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.20-22.25.16:511][606]LogEditorTransaction: Undo Move Node
+[2019.05.20-22.25.16:617][606]LogMaterial: Display: Missing cached shader map for material SculptureGradient, compiling. 
+[2019.05.20-22.25.16:639][606]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-22.25.16:639][606]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.20-22.25.16:639][606]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.20-22.25.16:639][606]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.20-22.25.16:639][606]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.20-22.25.16:639][606]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.20-22.25.16:639][606]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.20-22.25.16:639][606]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-22.25.16:641][606]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-22.25.16:681][606]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.05.20-22.25.16:713][606]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.05.20-22.25.16:752][606]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.05.20-22.25.16:791][606]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2019.05.20-22.25.16:849][606]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.20-22.25.16:861][606]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.20-22.25.16:861][606]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.25.16:880][606]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.20-22.25.16:880][606]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.20-22.25.16:880][606]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.20-22.25.16:986][606]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.20-22.25.16:987][606]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.20-22.25.16:987][606]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.20-22.25.17:099][607]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.20-22.25.17:201][607]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.20-22.25.17:318][607]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.20-22.25.17:354][608]LogEditorTransaction: Undo Material Editor: Delete
+[2019.05.20-22.25.17:421][608]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.25.17:455][608]LogMaterial: Display: Missing cached shader map for material SculptureGradient, compiling. 
+[2019.05.20-22.25.17:493][608]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.05.20-22.25.17:507][608]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.25.17:633][608]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.05.20-22.25.17:633][608]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.05.20-22.25.17:633][608]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.05.20-22.25.17:633][608]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.05.20-22.25.17:647][608]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.05.20-22.25.17:734][610]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.05.20-22.25.17:961][611]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.20-22.25.18:092][612]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.05.20-22.25.18:092][612]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.05.20-22.25.18:092][612]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.05.20-22.25.18:092][612]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.05.20-22.25.18:104][612]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.05.20-22.25.18:114][612]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.20-22.25.18:152][612]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.20-22.25.18:418][613]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.20-22.25.18:419][613]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.20-22.25.18:419][613]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.20-22.25.18:419][613]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.20-22.25.18:502][614]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.20-22.25.18:502][614]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.20-22.25.18:502][614]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.20-22.25.18:546][615]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.20-22.25.18:810][616]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.20-22.25.18:858][616]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.20-22.25.19:077][616]LogEditorTransaction: Undo Material Editor: Delete
+[2019.05.20-22.25.19:099][616]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.20-22.25.19:173][616]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.20-22.25.19:211][616]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-22.25.19:229][616]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.20-22.25.19:262][616]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.20-22.25.19:284][616]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.20-22.25.19:328][616]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.20-22.25.19:392][616]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.25.19:394][616]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.25.19:394][616]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.25.19:401][616]LogMaterial: Display: Missing cached shader map for material SculptureGradient, compiling. 
+[2019.05.20-22.25.19:448][616]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.25.19:449][616]LogMaterial: Warning: /Engine/Transient.CollectItem_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.20-22.25.19:449][616]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.25.19:494][616]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.05.20-22.25.19:511][616]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2019.05.20-22.25.19:640][617]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-22.25.19:640][617]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.20-22.25.19:640][617]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.20-22.25.19:917][619]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.20-22.25.19:963][619]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.20-22.25.19:975][619]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.20-22.25.20:076][620]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.20-22.25.20:076][620]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-22.25.20:084][620]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-22.25.20:147][620]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.25.20:193][620]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.25.20:209][620]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.25.20:227][620]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.25.20:235][620]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.25.20:249][620]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.25.20:262][620]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.25.20:339][621]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.25.20:639][623]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-22.25.20:649][623]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-22.25.20:907][624]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-22.25.21:006][624]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-22.25.21:080][625]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-22.25.21:183][627]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-22.25.21:191][627]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-22.25.21:203][627]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-22.25.21:214][627]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-22.25.21:508][628]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-22.25.21:535][628]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-22.25.21:575][628]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.25.21:952][630]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.25.22:304][632]MaterialEditorStats: Base pass shader: 130 instructions
+[2019.05.20-22.25.22:304][632]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2019.05.20-22.25.22:304][632]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2019.05.20-22.25.22:304][632]MaterialEditorStats: Base pass vertex shader: 33 instructions
+[2019.05.20-22.25.22:304][632]MaterialEditorStats: Texture samplers: 4/16
+[2019.05.20-22.25.22:304][632]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.05.20-22.25.33:658][742]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.25.33:678][742]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.25.33:678][742]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.25.33:678][742]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.25.33:678][742]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.25.33:678][742]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.25.33:678][742]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.25.33:678][742]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.25.33:678][742]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.25.33:678][742]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.05.20-22.25.33:901][745]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.25.33:940][745]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.25.33:946][745]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-22.25.33:954][745]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-22.25.33:954][745]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-22.25.34:052][746]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-22.25.34:052][746]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-22.25.34:052][746]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-22.25.34:103][746]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-22.25.34:322][747]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-22.25.34:388][747]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-22.25.34:711][748]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-22.25.34:734][748]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-22.25.34:752][748]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.25.34:787][748]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.25.35:319][753]MaterialEditorStats: Base pass shader: 130 instructions
+[2019.05.20-22.25.35:319][753]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2019.05.20-22.25.35:319][753]MaterialEditorStats: Base pass vertex shader: 33 instructions
+[2019.05.20-22.25.35:319][753]MaterialEditorStats: Texture samplers: 4/16
+[2019.05.20-22.25.35:319][753]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.05.20-22.26.24:728][132]LogMaterialEditor: Saving and Compiling material SculptureGradient
+[2019.05.20-22.26.25:080][132]LogMaterial: Display: Missing cached shader map for material SculptureGradient, compiling. 
+[2019.05.20-22.26.25:138][132]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-22.26.25:138][132]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.20-22.26.25:138][132]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.20-22.26.25:138][132]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.20-22.26.25:138][132]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.20-22.26.25:138][132]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.20-22.26.25:138][132]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.20-22.26.25:138][132]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-22.26.25:185][132]LogMaterial: Display: Missing cached shader map for material SculptureGradient, compiling. 
+[2019.05.20-22.26.25:268][132]LogMaterial: Display: Missing cached shader map for material SculptureGradient, compiling. 
+[2019.05.20-22.26.25:433][132]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy SculptureGradient, compiling. 
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-22.26.27:139][132]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.26.27:152][132]TextureStreamingBuild: Display: Compiling optional shaders took 1.727 seconds.
+[2019.05.20-22.26.29:237][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/SculptureGradient" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Materials/SculptureGradient.uasset" SILENT=true
+[2019.05.20-22.26.29:256][132]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/SculptureGradientFCF076BC4AE1978F717944B2B156109F.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Materials/SculptureGradient.uasset'
+[2019.05.20-22.26.33:525][183]LogMaterialEditor: Saving and Compiling material CollectItem_Mat
+[2019.05.20-22.26.33:868][183]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.26.33:908][183]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.26.33:908][183]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.26.33:908][183]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.26.33:908][183]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.26.33:909][183]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.26.33:909][183]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.26.33:909][183]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.26.33:909][183]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.26.33:957][183]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.26.34:012][183]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.26.34:152][183]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.20-22.26.34:163][183]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.20-22.26.34:178][183]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.20-22.26.34:178][183]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.20-22.26.34:178][183]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CollectItem_Mat, compiling. 
+[2019.05.20-22.26.35:048][183]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.20-22.26.35:048][183]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.20-22.26.35:048][183]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-22.26.35:048][183]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.20-22.26.35:048][183]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.20-22.26.35:048][183]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.20-22.26.35:048][183]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.20-22.26.35:048][183]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.20-22.26.35:048][183]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.20-22.26.35:048][183]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-22.26.35:048][183]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-22.26.35:048][183]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-22.26.35:048][183]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.26.35:059][183]TextureStreamingBuild: Display: Compiling optional shaders took 0.894 seconds.
+[2019.05.20-22.26.36:937][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CollectItem_Mat" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Materials/CollectItem_Mat.uasset" SILENT=true
+[2019.05.20-22.26.36:953][183]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/CollectItem_Mat774942CF4C67C4F6BD5DEC992677A78C.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Materials/CollectItem_Mat.uasset'
+[2019.05.20-22.26.48:799][327]LogMaterialEditor: Saving and Compiling material CollectItem_Mat
+[2019.05.20-22.26.48:926][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CollectItem_Mat" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Materials/CollectItem_Mat.uasset" SILENT=true
+[2019.05.20-22.26.48:938][327]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/CollectItem_Mat43D3A35B494947C310C0B48C0608D1EC.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Materials/CollectItem_Mat.uasset'
+[2019.05.20-22.27.02:676][504]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.27.02:695][504]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.27.02:695][504]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.27.02:695][504]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.27.02:695][504]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.27.02:695][504]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.27.02:695][504]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.27.02:695][504]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.27.02:695][504]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.27.02:698][504]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2019.05.20-22.27.02:726][504]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.27.03:229][509]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-22.27.03:249][509]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-22.27.03:265][509]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.27.03:273][509]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.27.03:278][509]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.27.03:306][509]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.27.03:348][510]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.27.03:356][510]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.27.03:572][511]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.27.03:588][511]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.27.03:600][511]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-22.27.03:610][511]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-22.27.03:630][511]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-22.27.03:638][511]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-22.27.03:646][511]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-22.27.03:671][511]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-22.27.03:783][512]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-22.27.03:821][512]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-22.27.03:829][512]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-22.27.04:008][513]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-22.27.04:215][514]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-22.27.04:317][514]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.27.04:339][514]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.27.04:911][518]MaterialEditorStats: Base pass shader: 130 instructions
+[2019.05.20-22.27.04:911][518]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2019.05.20-22.27.04:911][518]MaterialEditorStats: Base pass vertex shader: 33 instructions
+[2019.05.20-22.27.04:911][518]MaterialEditorStats: Texture samplers: 4/16
+[2019.05.20-22.27.04:911][518]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.05.20-22.27.07:947][553]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.27.07:964][553]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.27.07:964][553]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.27.07:964][553]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.27.07:964][553]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.27.07:964][553]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.27.07:964][553]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.27.07:964][553]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.27.07:964][553]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.27.07:964][553]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2019.05.20-22.27.07:995][553]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.27.08:190][556]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-22.27.08:211][556]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-22.27.08:219][556]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.27.08:227][556]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.27.08:232][556]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.27.08:284][556]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.27.08:288][556]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.27.08:292][556]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.27.08:541][557]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.27.08:549][557]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.27.08:549][557]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-22.27.08:561][557]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-22.27.08:570][557]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-22.27.08:578][557]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-22.27.08:586][557]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-22.27.08:635][558]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-22.27.08:727][559]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-22.27.08:766][559]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-22.27.08:773][559]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-22.27.08:946][560]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-22.27.09:137][561]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-22.27.09:375][562]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.27.09:380][562]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.27.09:849][565]MaterialEditorStats: Base pass shader: 130 instructions
+[2019.05.20-22.27.09:849][565]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2019.05.20-22.27.09:849][565]MaterialEditorStats: Base pass vertex shader: 33 instructions
+[2019.05.20-22.27.09:849][565]MaterialEditorStats: Texture samplers: 4/16
+[2019.05.20-22.27.09:849][565]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.05.20-22.27.12:305][596]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.27.12:320][596]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2019.05.20-22.27.12:335][596]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-22.27.12:335][596]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-22.27.12:335][596]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.27.12:335][596]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.27.12:335][596]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.27.12:335][596]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.27.12:335][596]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.27.12:335][596]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.27.12:351][596]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.27.12:536][598]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-22.27.12:594][599]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-22.27.12:595][599]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.27.12:595][599]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.27.12:595][599]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.27.12:658][599]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.27.12:664][599]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.27.12:664][599]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.27.12:904][600]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.27.12:912][600]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.27.12:918][600]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-22.27.12:928][600]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-22.27.12:979][601]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-22.27.12:980][601]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-22.27.12:980][601]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-22.27.12:995][601]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-22.27.13:093][601]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-22.27.13:133][601]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-22.27.13:167][601]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-22.27.13:294][601]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-22.27.13:439][601]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.20-22.27.13:650][604]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.27.13:659][604]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.20-22.27.14:140][608]MaterialEditorStats: Base pass shader: 130 instructions
+[2019.05.20-22.27.14:140][608]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2019.05.20-22.27.14:140][608]MaterialEditorStats: Base pass vertex shader: 33 instructions
+[2019.05.20-22.27.14:140][608]MaterialEditorStats: Texture samplers: 4/16
+[2019.05.20-22.27.14:140][608]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.05.20-22.27.16:075][630]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.27.16:087][630]LogMaterialEditor: Saving and Compiling material CollectItem_Mat
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.20-22.27.16:662][630]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.20-22.27.16:688][630]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.27.16:754][630]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.27.16:847][630]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.27.16:944][630]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.27.16:982][630]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.27.17:103][630]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.20-22.27.17:103][630]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.20-22.27.17:103][630]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.20-22.27.17:129][630]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.20-22.27.17:130][630]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CollectItem_Mat, compiling. 
+[2019.05.20-22.27.18:194][630]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.20-22.27.18:194][630]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.20-22.27.18:194][630]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.20-22.27.18:194][630]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.20-22.27.18:194][630]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.20-22.27.18:195][630]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.20-22.27.18:195][630]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.20-22.27.18:195][630]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.20-22.27.18:195][630]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-22.27.18:195][630]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.20-22.27.18:195][630]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.20-22.27.18:195][630]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.20-22.27.18:195][630]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.20-22.27.18:195][630]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.20-22.27.18:195][630]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.20-22.27.18:195][630]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.20-22.27.18:195][630]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.20-22.27.18:195][630]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.20-22.27.18:195][630]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.20-22.27.18:205][630]TextureStreamingBuild: Display: Compiling optional shaders took 1.087 seconds.
+[2019.05.20-22.27.20:194][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CollectItem_Mat" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Materials/CollectItem_Mat.uasset" SILENT=true
+[2019.05.20-22.27.20:210][630]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/CollectItem_Mat25F8A70E41C31C2314CDB798DC8737D3.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Materials/CollectItem_Mat.uasset'
+[2019.05.20-22.27.47:204][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.27.51:041][975]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.28.25:416][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.28.42:298][514]LogSlate: Window 'Save Asset As' being destroyed
+[2019.05.20-22.29.00:806][683]LogSlate: Window 'Save Asset As' being destroyed
+[2019.05.20-22.29.04:247][720]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/NewParticleSystem.NewParticleSystem
+[2019.05.20-22.29.04:269][720]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2019.05.20-22.29.04:620][722]LogMaterial: Warning: Material /Game/Materials/CollectItem_Mat.CollectItem_Mat needed to have new flag set bUsedWithParticleSprites !
+[2019.05.20-22.29.04:681][722]LogMaterial: Warning: Material /Engine/Transient.CollectItem_Mat needed to have new flag set bUsedWithParticleSprites !
+[2019.05.20-22.29.04:684][722]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.29.04:698][722]LogMaterial: Display: Missing cached shader map for material CollectItem_Mat, compiling. 
+[2019.05.20-22.29.04:726][722]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.20-22.29.04:726][722]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.29.04:726][722]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.20-22.29.04:726][722]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.20-22.29.04:726][722]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.20-22.29.04:726][722]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.20-22.29.04:726][722]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.20-22.29.04:726][722]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.20-22.29.05:244][726]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.05.20-22.29.05:244][726]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.05.20-22.29.05:278][726]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.05.20-22.29.05:286][726]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.05.20-22.29.05:308][726]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.05.20-22.29.05:328][726]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.05.20-22.29.05:344][726]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.05.20-22.29.05:364][726]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.05.20-22.29.05:448][726]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.05.20-22.29.05:617][726]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.05.20-22.29.05:701][727]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.05.20-22.29.06:059][730]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.05.20-22.29.06:096][730]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.05.20-22.29.06:133][730]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.20-22.29.06:178][730]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.20-22.29.06:335][731]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.20-22.29.06:335][731]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.20-22.29.06:360][731]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.20-22.29.06:561][731]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.20-22.29.10:899][758]MaterialEditorStats: Base pass shader: 130 instructions
+[2019.05.20-22.29.10:899][758]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2019.05.20-22.29.10:899][758]MaterialEditorStats: Base pass vertex shader: 33 instructions
+[2019.05.20-22.29.10:899][758]MaterialEditorStats: Texture samplers: 4/16
+[2019.05.20-22.29.10:899][758]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.05.20-22.30.10:677][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.30.32:821][824]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.30.36:622][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.31.08:720][318]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Midterm' took 0.071
+[2019.05.20-22.31.08:721][318]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/Collectable_Blueprint] ([1] browsable assets)...
+[2019.05.20-22.31.08:740][318]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Collectable_Blueprint.Collectable_Blueprint]
+[2019.05.20-22.31.08:740][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Collectable_Blueprint]
+[2019.05.20-22.31.08:755][318]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Collectable_Blueprint_Auto9AFD1324D45C87E952F8901863C78FD64.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Autosaves/Game/BluePrint/Collectable_Blueprint_Auto9.uasset'
+[2019.05.20-22.31.08:755][318]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/CollectItem_Mat] ([1] browsable assets)...
+[2019.05.20-22.31.08:755][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/CollectItem_Mat]
+[2019.05.20-22.31.08:764][318]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/CollectItem_Mat_Auto9DF886169445FE824969933B7D160F4FF.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Autosaves/Game/Materials/CollectItem_Mat_Auto9.uasset'
+[2019.05.20-22.31.08:765][318]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewParticleSystem] ([1] browsable assets)...
+[2019.05.20-22.31.08:769][318]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/NewParticleSystem.NewParticleSystem]
+[2019.05.20-22.31.08:769][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewParticleSystem]
+[2019.05.20-22.31.08:777][318]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/NewParticleSystem_Auto937B07960466C22597C3C98A6D92B75F3.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Autosaves/Game/NewParticleSystem_Auto9.uasset'
+[2019.05.20-22.31.08:777][318]LogFileHelpers: Auto-saving content packages took 0.057
+[2019.05.20-22.32.18:950][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.34.37:105][657]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.36.31:075][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.38.31:769][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.38.37:174][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.38.38:320][637]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.38.38:967][646]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.38.39:473][653]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.38.39:698][656]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.39.23:238][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.41.09:221][360]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Midterm' took 0.125
+[2019.05.20-22.41.09:222][360]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/Collectable_Blueprint] ([1] browsable assets)...
+[2019.05.20-22.41.09:258][360]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Collectable_Blueprint.Collectable_Blueprint]
+[2019.05.20-22.41.09:258][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Collectable_Blueprint]
+[2019.05.20-22.41.09:273][360]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Collectable_Blueprint_Auto0A0BB8AD54A2CC0568D3A638CD8802EDB.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Autosaves/Game/BluePrint/Collectable_Blueprint_Auto0.uasset'
+[2019.05.20-22.41.09:274][360]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewParticleSystem] ([1] browsable assets)...
+[2019.05.20-22.41.09:278][360]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/NewParticleSystem.NewParticleSystem]
+[2019.05.20-22.41.09:278][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewParticleSystem]
+[2019.05.20-22.41.09:286][360]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/NewParticleSystem_Auto0008F35334434477D8ACE5EB294888FA9.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Autosaves/Game/NewParticleSystem_Auto0.uasset'
+[2019.05.20-22.41.09:286][360]LogFileHelpers: Auto-saving content packages took 0.064
+[2019.05.20-22.42.06:735][155]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.42.07:604][167]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.42.08:540][180]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.42.09:052][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.42.11:807][226]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.42.12:684][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.42.31:553][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.42.33:453][516]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.20-22.42.55:955][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.43.00:302][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.44.16:494][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.44.29:848][599]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.45.49:518][934]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.46.14:617][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.46.29:296][425]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.20-22.46.30:088][434]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.20-22.46.30:635][440]LogEditorTransaction: Undo Modify Component(s)
+[2019.05.20-22.46.31:194][448]LogEditorTransaction: Undo Create New Module
+[2019.05.20-22.46.31:834][456]LogEditorTransaction: Undo Set Vector Property
+[2019.05.20-22.46.32:330][462]LogEditorTransaction: Undo Set Vector Property
+[2019.05.20-22.46.38:389][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.46.44:871][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.46.48:088][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.47.01:654][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.47.01:867][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewParticleSystem" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset" SILENT=true
+[2019.05.20-22.47.01:879][837]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/NewParticleSystem788394B540F7830AFEC548B49A751F25.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset'
+[2019.05.20-22.47.20:174][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.47.22:639][122]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.47.35:188][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.47.50:588][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.47.57:770][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.48.03:734][638]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.48.44:735][123]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.49.01:977][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.49.13:167][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewParticleSystem" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset" SILENT=true
+[2019.05.20-22.49.13:181][471]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/NewParticleSystemCA88A42F479B75D26565F2AC0492460C.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset'
+[2019.05.20-22.49.42:594][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.51.06:952][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.51.10:054][355]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.51.10:252][355]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Midterm' took 0.129
+[2019.05.20-22.51.10:254][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/Collectable_Blueprint] ([1] browsable assets)...
+[2019.05.20-22.51.10:290][355]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Collectable_Blueprint.Collectable_Blueprint]
+[2019.05.20-22.51.10:290][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Collectable_Blueprint]
+[2019.05.20-22.51.10:304][355]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Collectable_Blueprint_Auto1F488F4F5427EBA6FFE3C8AB9CB885FC4.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Autosaves/Game/BluePrint/Collectable_Blueprint_Auto1.uasset'
+[2019.05.20-22.51.10:305][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewParticleSystem] ([1] browsable assets)...
+[2019.05.20-22.51.10:309][355]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/NewParticleSystem.NewParticleSystem]
+[2019.05.20-22.51.10:310][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewParticleSystem]
+[2019.05.20-22.51.10:323][355]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/NewParticleSystem_Auto14F0E34024FCC3DAFBBDD7DB972C464B8.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Autosaves/Game/NewParticleSystem_Auto1.uasset'
+[2019.05.20-22.51.10:323][355]LogFileHelpers: Auto-saving content packages took 0.070
+[2019.05.20-22.51.42:657][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.52.01:181][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.52.01:476][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewParticleSystem" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset" SILENT=true
+[2019.05.20-22.52.01:488][ 43]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/NewParticleSystem463F614E4B5D202B840174848661EA06.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset'
+[2019.05.20-22.52.02:951][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewParticleSystem" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset" SILENT=true
+[2019.05.20-22.52.02:963][ 63]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/NewParticleSystem3296DA9943F9FBBE1FE84DA765440C2B.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset'
+[2019.05.20-22.52.16:485][250]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.52.36:073][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.52.50:801][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.52.56:540][757]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.52.58:612][780]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.53.09:882][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.53.15:707][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.55.40:018][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.55.44:508][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.55.50:358][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewParticleSystem" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset" SILENT=true
+[2019.05.20-22.55.50:376][833]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/NewParticleSystemB769AD9E4E9C9ABB85837FB4400B13F6.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset'
+[2019.05.20-22.56.11:771][124]BlueprintLog: New page: Compile Collectable_Blueprint
+[2019.05.20-22.56.19:619][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.56.46:643][368]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.56.58:543][443]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.57.19:629][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.58.02:034][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.58.38:930][494]LogCascade: Non-seeded module ParticleModuleAccelerationOverLifetime
+[2019.05.20-22.58.38:998][494]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.58.44:031][560]LogCascade: Non-seeded module ParticleModuleRotationRate
+[2019.05.20-22.58.44:105][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.58.52:355][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.59.21:418][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewParticleSystem" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset" SILENT=true
+[2019.05.20-22.59.21:432][ 73]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/NewParticleSystem961F19F04AD7F713C02F69BC4B20D29C.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset'
+[2019.05.20-22.59.40:576][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-22.59.45:501][337]LogSlate: Window 'Message' being destroyed
+[2019.05.20-22.59.47:629][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.59.47:698][366]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.20-22.59.53:574][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-22.59.53:795][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewParticleSystem" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset" SILENT=true
+[2019.05.20-22.59.53:807][446]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/NewParticleSystem2121EB5B4F320C0BF812D3B7FE8E8104.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset'
+[2019.05.20-23.00.18:456][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-23.00.22:696][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-23.00.27:988][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewParticleSystem" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset" SILENT=true
+[2019.05.20-23.00.28:000][906]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/NewParticleSystem085068184AC7B9A9B355BB8A5F235864.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/NewParticleSystem.uasset'
+[2019.05.20-23.00.33:034][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-23.00.33:102][977]BlueprintLog: New page: Compile Collectable_Blueprint
+[2019.05.20-23.00.34:299][985]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Collectable_BlueprintA59705E0456CC50C360A69B860D853EB.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/BluePrint/Collectable_Blueprint.uasset'
+[2019.05.20-23.01.00:632][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BlockMeshPrototypeModules_SM_Block_Floor545)
+[2019.05.20-23.01.13:000][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BlockMeshPrototypeModules_SM_Block_Floor545)
+[2019.05.20-23.01.14:204][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-23.01.14:281][488]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-23.01.14:309][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.01.14:309][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-23.01.14:310][488]PIE: New page: PIE session: Midterm (May 20, 2019, 3:01:14 PM)
+[2019.05.20-23.01.14:310][488]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Midterm
+[2019.05.20-23.01.14:448][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.137043s)
+[2019.05.20-23.01.14:448][488]LogAIModule: Creating AISystem for world Midterm
+[2019.05.20-23.01.14:448][488]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2019.05.20-23.01.14:449][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Midterm.Midterm to /Game/UEDPIE_0_Midterm.Midterm (0.138388s)
+[2019.05.20-23.01.14:502][488]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.20-23.01.14:595][488]LogInit: FAudioDevice initialized.
+[2019.05.20-23.01.14:629][488]LogLoad: Game class is 'MyGameMode_C'
+[2019.05.20-23.01.14:680][488]LogWorld: Bringing World /Game/UEDPIE_0_Midterm.Midterm up for play (max tick rate 60) at 2019.05.20-19.01.14
+[2019.05.20-23.01.14:683][488]LogWorld: Bringing up level for play took: 0.053392
+[2019.05.20-23.01.14:699][488]Cmd: DISABLEALLSCREENMESSAGES
+[2019.05.20-23.01.14:699][488]LogEngine: Onscreen warnings/messages are now DISABLED
+[2019.05.20-23.01.14:700][488]PIE: Play in editor start time for /Game/UEDPIE_0_Midterm 0.858
+[2019.05.20-23.01.14:701][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.01.14:743][489]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.091731 > MaxSimulationTimeStep (0.050) for 'MyPlayerCharacter_C_0', movement 'Walking'
+[2019.05.20-23.01.21:513][586]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.01.21:513][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-23.01.21:723][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-23.01.21:724][586]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.01.21:765][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-23.01.21:831][587]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2019.05.20-23.01.29:792][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-23.01.29:888][688]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-23.01.29:909][688]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.01.29:909][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-23.01.29:909][688]PIE: New page: PIE session: Midterm (May 20, 2019, 3:01:29 PM)
+[2019.05.20-23.01.29:910][688]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Midterm
+[2019.05.20-23.01.30:042][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132477s)
+[2019.05.20-23.01.30:043][688]LogAIModule: Creating AISystem for world Midterm
+[2019.05.20-23.01.30:043][688]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2019.05.20-23.01.30:043][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Midterm.Midterm to /Game/UEDPIE_0_Midterm.Midterm (0.133493s)
+[2019.05.20-23.01.30:083][688]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.20-23.01.30:171][688]LogInit: FAudioDevice initialized.
+[2019.05.20-23.01.30:203][688]LogLoad: Game class is 'MyGameMode_C'
+[2019.05.20-23.01.30:243][688]LogWorld: Bringing World /Game/UEDPIE_0_Midterm.Midterm up for play (max tick rate 60) at 2019.05.20-19.01.30
+[2019.05.20-23.01.30:246][688]LogWorld: Bringing up level for play took: 0.041542
+[2019.05.20-23.01.30:260][688]Cmd: DISABLEALLSCREENMESSAGES
+[2019.05.20-23.01.30:260][688]LogEngine: Onscreen warnings/messages are now DISABLED
+[2019.05.20-23.01.30:261][688]PIE: Play in editor start time for /Game/UEDPIE_0_Midterm 0.419
+[2019.05.20-23.01.30:261][688]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.01.46:364][903]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.01.46:364][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-23.01.46:542][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-23.01.46:542][903]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.01.46:582][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-23.01.46:636][904]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2019.05.20-23.01.47:866][920]LogEditorViewport: Clicking on Actor (LMB): Collectable_Blueprint_C (Collectable_Blueprint)
+[2019.05.20-23.01.49:605][936]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-23.01.51:873][961]LogCascade: Quitting Cascade. FXSystem=0x0000017427C44720
+[2019.05.20-23.02.09:580][188]LogUObjectArray: Warning: Other object in slot
+[2019.05.20-23.02.09:581][188]LogUObjectArray: Warning: Other object in slot
+[2019.05.20-23.02.09:584][188]LogUObjectArray: Warning: Other object in slot
+[2019.05.20-23.02.09:589][188]LogUObjectArray: Warning: Other object in slot
+[2019.05.20-23.02.09:661][189]LogUObjectArray: Warning: Other object in slot
+[2019.05.20-23.02.09:664][189]LogUObjectArray: Warning: Other object in slot
+[2019.05.20-23.02.09:668][189]LogUObjectArray: Warning: Other object in slot
+[2019.05.20-23.02.09:741][190]LogUObjectArray: Warning: Other object in slot
+[2019.05.20-23.02.09:743][190]LogUObjectArray: Warning: Other object in slot
+[2019.05.20-23.02.09:748][190]LogUObjectArray: Warning: Other object in slot
+[2019.05.20-23.02.17:605][290]LogUObjectArray: Warning: Other object in slot
+[2019.05.20-23.02.17:605][290]LogUObjectArray: Warning: Other object in slot
+[2019.05.20-23.02.17:609][290]LogUObjectArray: Warning: Other object in slot
+[2019.05.20-23.02.17:612][290]LogUObjectArray: Warning: Other object in slot
+[2019.05.20-23.02.53:957][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-23.02.56:679][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-23.02.56:749][776]BlueprintLog: New page: Compile Collectable_Blueprint
+[2019.05.20-23.02.57:753][781]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Collectable_Blueprint0CDD09784C36B0BEB57B0BB63381D506.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/BluePrint/Collectable_Blueprint.uasset'
+[2019.05.20-23.03.00:781][821]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-23.03.00:803][821]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.03.00:803][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-23.03.00:803][821]PIE: New page: PIE session: Midterm (May 20, 2019, 3:03:00 PM)
+[2019.05.20-23.03.00:804][821]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Midterm
+[2019.05.20-23.03.00:932][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128119s)
+[2019.05.20-23.03.00:932][821]LogAIModule: Creating AISystem for world Midterm
+[2019.05.20-23.03.00:933][821]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2019.05.20-23.03.00:933][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Midterm.Midterm to /Game/UEDPIE_0_Midterm.Midterm (0.129246s)
+[2019.05.20-23.03.00:974][821]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.20-23.03.01:059][821]LogInit: FAudioDevice initialized.
+[2019.05.20-23.03.01:093][821]LogLoad: Game class is 'MyGameMode_C'
+[2019.05.20-23.03.01:132][821]LogWorld: Bringing World /Game/UEDPIE_0_Midterm.Midterm up for play (max tick rate 60) at 2019.05.20-19.03.01
+[2019.05.20-23.03.01:135][821]LogWorld: Bringing up level for play took: 0.040566
+[2019.05.20-23.03.01:149][821]Cmd: DISABLEALLSCREENMESSAGES
+[2019.05.20-23.03.01:150][821]LogEngine: Onscreen warnings/messages are now DISABLED
+[2019.05.20-23.03.01:150][821]PIE: Play in editor start time for /Game/UEDPIE_0_Midterm 1.308
+[2019.05.20-23.03.01:151][821]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.03.01:190][822]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080727 > MaxSimulationTimeStep (0.050) for 'MyPlayerCharacter_C_0', movement 'Walking'
+[2019.05.20-23.03.07:443][901]LogBlueprintUserMessages: [Collectable_Blueprint_2] 1
+[2019.05.20-23.03.10:791][948]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.03.10:792][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-23.03.10:995][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-23.03.10:996][948]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.03.11:036][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-23.03.11:083][949]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2019.05.20-23.03.15:356][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-23.03.15:443][  4]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-23.03.15:468][  4]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.03.15:468][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-23.03.15:468][  4]PIE: New page: PIE session: Midterm (May 20, 2019, 3:03:15 PM)
+[2019.05.20-23.03.15:469][  4]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Midterm
+[2019.05.20-23.03.15:591][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122198s)
+[2019.05.20-23.03.15:591][  4]LogAIModule: Creating AISystem for world Midterm
+[2019.05.20-23.03.15:591][  4]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2019.05.20-23.03.15:592][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Midterm.Midterm to /Game/UEDPIE_0_Midterm.Midterm (0.123105s)
+[2019.05.20-23.03.15:633][  4]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.20-23.03.15:717][  4]LogInit: FAudioDevice initialized.
+[2019.05.20-23.03.15:749][  4]LogLoad: Game class is 'MyGameMode_C'
+[2019.05.20-23.03.15:791][  4]LogWorld: Bringing World /Game/UEDPIE_0_Midterm.Midterm up for play (max tick rate 60) at 2019.05.20-19.03.15
+[2019.05.20-23.03.15:794][  4]LogWorld: Bringing up level for play took: 0.045081
+[2019.05.20-23.03.15:811][  4]Cmd: DISABLEALLSCREENMESSAGES
+[2019.05.20-23.03.15:811][  4]LogEngine: Onscreen warnings/messages are now DISABLED
+[2019.05.20-23.03.15:812][  4]PIE: Play in editor start time for /Game/UEDPIE_0_Midterm -0.03
+[2019.05.20-23.03.15:813][  4]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.03.15:856][  5]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.091653 > MaxSimulationTimeStep (0.050) for 'MyPlayerCharacter_C_0', movement 'Walking'
+[2019.05.20-23.03.24:213][106]LogBlueprintUserMessages: [Collectable_Blueprint_2] 1
+[2019.05.20-23.03.25:255][121]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.03.25:255][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-23.03.25:417][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-23.03.25:418][121]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.03.25:461][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-23.03.25:506][122]Cmd: SELECT NONE
+[2019.05.20-23.03.25:509][122]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2019.05.20-23.03.31:245][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-23.03.32:881][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-23.04.22:769][767]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.20-23.04.25:830][781]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.20-23.04.35:339][818]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.20-23.05.00:087][110]BlueprintLog: New page: Compile MyPlayerCharacter
+[2019.05.20-23.05.00:995][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayerCharacter" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/MyPlayerCharacter.uasset" SILENT=true
+[2019.05.20-23.05.01:045][114]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/MyPlayerCharacterE6F30084486251C334E839BB64D387BA.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/MyPlayerCharacter.uasset'
+[2019.05.20-23.05.01:658][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyPlayerCharacter" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/MyPlayerCharacter.uasset" SILENT=true
+[2019.05.20-23.05.01:708][123]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/MyPlayerCharacter434639964ED61D4F2D834FBCA7A490B8.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/MyPlayerCharacter.uasset'
+[2019.05.20-23.05.03:370][149]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-23.05.03:396][149]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.05.03:396][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-23.05.03:396][149]PIE: New page: PIE session: Midterm (May 20, 2019, 3:05:03 PM)
+[2019.05.20-23.05.03:397][149]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Midterm
+[2019.05.20-23.05.03:521][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124155s)
+[2019.05.20-23.05.03:521][149]LogAIModule: Creating AISystem for world Midterm
+[2019.05.20-23.05.03:521][149]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2019.05.20-23.05.03:522][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Midterm.Midterm to /Game/UEDPIE_0_Midterm.Midterm (0.125103s)
+[2019.05.20-23.05.03:565][149]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.20-23.05.03:655][149]LogInit: FAudioDevice initialized.
+[2019.05.20-23.05.03:689][149]LogLoad: Game class is 'MyGameMode_C'
+[2019.05.20-23.05.03:733][149]LogWorld: Bringing World /Game/UEDPIE_0_Midterm.Midterm up for play (max tick rate 60) at 2019.05.20-19.05.03
+[2019.05.20-23.05.03:736][149]LogWorld: Bringing up level for play took: 0.046376
+[2019.05.20-23.05.03:751][149]Cmd: DISABLEALLSCREENMESSAGES
+[2019.05.20-23.05.03:751][149]LogEngine: Onscreen warnings/messages are now DISABLED
+[2019.05.20-23.05.03:751][149]PIE: Play in editor start time for /Game/UEDPIE_0_Midterm -0.091
+[2019.05.20-23.05.03:752][149]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.05.03:793][150]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.078913 > MaxSimulationTimeStep (0.050) for 'MyPlayerCharacter_C_0', movement 'Walking'
+[2019.05.20-23.05.07:755][202]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.05.07:755][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-23.05.07:942][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-23.05.07:943][202]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Midterm.Midterm:PersistentLevel' has LevelScriptBlueprint '/Game/Midterm.Midterm:PersistentLevel.Midterm' with GeneratedClass '/Game/Midterm.Midterm_C' with ClassGeneratedBy '/Game/Midterm.Midterm:PersistentLevel.Midterm'
+[2019.05.20-23.05.07:978][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-23.05.08:026][203]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2019.05.20-23.05.35:030][286]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Midterm_Auto240A4451340BBB8B9FB00C3B5733D8EEB.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Autosaves/Game/Midterm_Auto2.umap'
+[2019.05.20-23.05.35:036][286]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Midterm' took 2.135
+[2019.05.20-23.05.35:036][286]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.135
+[2019.05.20-23.05.35:047][286]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CollectibleBlueprint] ([1] browsable assets)...
+[2019.05.20-23.05.35:087][286]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CollectibleBlueprint.CollectibleBlueprint]
+[2019.05.20-23.05.35:087][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/CollectibleBlueprint]
+[2019.05.20-23.05.35:112][286]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/CollectibleBlueprint_Auto2FB74945144BFE0AA4BBF02903C3F7A86.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Autosaves/Game/CollectibleBlueprint_Auto2.uasset'
+[2019.05.20-23.05.35:113][286]LogFileHelpers: Auto-saving content packages took 0.067
+[2019.05.20-23.06.38:714][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-23.07.31:420][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-23.17.45:433][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Midterm" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Midterm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.20-23.17.47:553][ 40]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/Midterm9E29FF10437F791BB32DDD9015C5B0B6.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Midterm.umap'
+[2019.05.20-23.17.47:627][ 40]LogFileHelpers: Saving map 'Midterm' took 2.196
+[2019.05.20-23.17.47:644][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CollectibleBlueprint" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/CollectibleBlueprint.uasset" SILENT=true
+[2019.05.20-23.17.47:664][ 40]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/CollectibleBlueprint0A2EBE9046CAB76598D551B34B8C5C8D.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/CollectibleBlueprint.uasset'
+[2019.05.20-23.17.47:674][ 40]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/museum_collectableItemA42E054044DBE61F3167B48ED1542622.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Item/Museum/museum_collectableItem.uasset'
+[2019.05.20-23.17.47:680][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/CollectItem_Mat" FILE="D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Materials/CollectItem_Mat.uasset" SILENT=true
+[2019.05.20-23.17.47:691][ 40]LogSavePackage: Moving 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Saved/CollectItem_MatED49A899438FFBF0780A87A942168D8E.tmp' to 'D:/NYU/First Year Semester II/Level Design Studio/LevelDesignFinal/Proj_2/Content/Materials/CollectItem_Mat.uasset'
+[2019.05.21-00.52.01:723][987]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-00.52.17:276][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-00.52.58:082][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-00.52.58:365][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-00.52.59:407][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2019.05.21-00.52.59:863][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2019.05.21-00.53.00:318][110]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-00.53.04:842][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-00.53.05:088][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-00.53.05:893][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-00.53.05:907][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-00.56.38:781][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.21-01.16.20:062][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
